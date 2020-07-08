@@ -8,3 +8,4 @@ wait
 
 echo "All containers started successfully"
 echo "Web server IP: http://localhost:8083"
+echo "Mysql-Server IP: http://localhost:3310 user:pw app:app"
